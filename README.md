@@ -1,6 +1,6 @@
 # Tinkercad Projects
 
-This repository contains a collection of 3D designs and circuit projects I created using Tinkercad in my Robotics and Elements of Engineering classes.
+This repository contains a collection of 3D designs and circuit projects I created using Tinkercad in my Robotics and Elements of Engineering classes from grades 6-9.
 
 The repository includes:
 - `.md` files explaining each project with images
