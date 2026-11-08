@@ -5,3 +5,4 @@ A 3D CAD design of a bridge for Elements of Engineering. Used model to construct
 [View the 3D design here](https://www.tinkercad.com/things/iKt4Dj4dl8E-engineering-bridge?sharecode=Liu-Ma_1DUnkpFzTf0fZz5Sr3tGSbd8dpYvHmctdBwg)
 
 <img width="1434" height="801" alt="Engineering Bridge" src="https://github.com/user-attachments/assets/524c14ee-2aaa-4aee-9a92-c122173a3064" />
+<img width="4032" height="3024" alt="IMG_4538" src="https://github.com/user-attachments/assets/c42b4981-38e4-4b6a-a2fa-88452cbd2b71" />
